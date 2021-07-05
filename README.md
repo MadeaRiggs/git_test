@@ -1,0 +1,1 @@
+This is MadeaRiggs' first git project
